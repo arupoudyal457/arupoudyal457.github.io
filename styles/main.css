@@ -104,12 +104,20 @@ hr {
                  0px 8px 13px rgba(0,0,0,0.1),
                  0px 18px 23px rgba(0,0,0,0.1);
 }
-#work {
+#work{
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   
   padding-bottom: 1%;
 }
+
+#workex{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  
+  padding-bottom: 1%;
+}
+
 .work {
   padding-top: 3%;
   padding-bottom: 3%;
